@@ -38,7 +38,7 @@
                   <li><a href="lifts.html">Lifts</a></li>
                   <li><a href="construction.html">Construction Products</a></li>
                   <li><a href="welder.html">Welder Testing</a></li>
-                  <li><a href="en15085.html">EN 15085 Welding</a></li>
+                  <li><a href="en15085.html">EN 15085 Railway Welding</a></li>
                   <li><a href="en1090.html">EN 1090</a></li>
                   <li><a href="ped.html">PED 2014/68/EU</a></li>
                   <li><a href="atex.html">ATEX</a></li>
@@ -58,7 +58,6 @@
             </ul>
           </li>
           <li><a href="process.html">Process</a></li>
-          <li><a href="blog.html">Blog</a></li>
           <li><a href="about.html">About</a></li>
           <li><a href="contact.html" class="active">Contact</a></li>
         </ul>
@@ -85,13 +84,17 @@
     </div>
     <div class="contact-form">
       <h3>READY TO BEGIN? INQUIRE NOW</h3>
-      <form>
-        <input type="text" placeholder="Name" required />
-        <input type="email" placeholder="Email" required />
-        <input type="tel" placeholder="Mobile" required />
-        <textarea rows="5" placeholder="Message" required></textarea>
+      <form name="contact" method="POST" data-netlify="true" action="/thank-you.html">
+        <input type="hidden" name="form-name" value="contact" />
+      
+        <input type="text" name="name" placeholder="Name" required />
+        <input type="email" name="email" placeholder="Email" required />
+        <input type="tel" name="Phone" placeholder="Phone" required />
+        <textarea name="message" rows="10" placeholder="Message" required></textarea>
+      
         <button type="submit">Submit</button>
       </form>
+      
     </div>
   </section>
 
@@ -99,10 +102,17 @@
 
   <footer>
     <div class="container">
-      <p>&copy; 2025 Eurotech Assessment Services Inc. | All Rights Reserved</p>
-      <p><a href="contact.html">Contact</a> | <a href="about.html">About</a></p>
+      <div class="footer-links">
+        <p>&copy; 2025 Eurotech Assessment Services Inc. | All Rights Reserved</p>
+        <p>
+          <a href="contact.html">Contact</a> | 
+          <a href="about.html">About</a> | 
+          <a href="services.html">Services</a>
+        </p>
+      </div>
     </div>
   </footer>
 </body>
 </html>
+
 
