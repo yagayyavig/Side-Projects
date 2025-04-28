@@ -84,8 +84,12 @@
     </div>
     <div class="contact-form">
       <h3>READY TO BEGIN? INQUIRE NOW</h3>
-      <form name="contact" method="POST" data-netlify="true" action="./thank-you.html">
+      <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="thank-you.html">
         <input type="hidden" name="form-name" value="contact" />
+      
+        <p hidden>
+          <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+        </p>
       
         <input type="text" name="name" placeholder="Name" required />
         <input type="email" name="email" placeholder="Email" required />
