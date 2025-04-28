@@ -32,6 +32,11 @@
   </url>
 
   <url>
+    <loc>https://eurotech-canada.com/asi.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
     <loc>https://eurotech-canada.com/atex.html</loc>
     <priority>0.80</priority>
   </url>
@@ -47,18 +52,23 @@
   </url>
 
   <url>
-    <loc>https://eurotech-canada.com/construction.html</loc>
+    <loc>https://eurotech-canada.com/coc.html</loc>
     <priority>0.80</priority>
   </url>
 
   <url>
-    <loc>https://eurotech-canada.com/cpchat.html</loc>
+    <loc>https://eurotech-canada.com/construction.html</loc>
     <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://eurotech-canada.com/contact.html</loc>
     <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/ctpat.html</loc>
+    <priority>0.80</priority>
   </url>
 
   <url>
@@ -70,20 +80,25 @@
     <loc>https://eurotech-canada.com/en15085.html</loc>
     <priority>0.80</priority>
   </url>
+  
+  <url>
+    <loc>https://eurotech-canada.com/index.html</loc>
+    <priority>0.80</priority>
+  </url>
 
   <url>
     <loc>https://eurotech-canada.com/iso9001.html</loc>
-    <priority>0.85</priority>
+    <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://eurotech-canada.com/iso14001.html</loc>
-    <priority>0.85</priority>
+    <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://eurotech-canada.com/iso27001.html</loc>
-    <priority>0.85</priority>
+    <priority>0.80</priority>
   </url>
 
   <url>
@@ -98,7 +113,7 @@
 
   <url>
     <loc>https://eurotech-canada.com/management.html</loc>
-    <priority>0.85</priority>
+    <priority>0.80</priority>
   </url>
 
   <url>
@@ -108,7 +123,7 @@
 
   <url>
     <loc>https://eurotech-canada.com/process.html</loc>
-    <priority>0.90</priority>
+    <priority>0.80</priority>
   </url>
 
   <url>
@@ -128,21 +143,22 @@
 
   <url>
     <loc>https://eurotech-canada.com/services.html</loc>
-    <priority>0.90</priority>
+    <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://eurotech-canada.com/social.html</loc>
-    <priority>0.70</priority>
-  </url>
-
-  <url>
-    <loc>https://eurotech-canada.com/thank-you.html</loc>
-    <priority>0.70</priority>
+    <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://eurotech-canada.com/welder.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+
+<url>
+    <loc>https://eurotech-canada.com/thank-you.html</loc>
     <priority>0.80</priority>
   </url>
 
