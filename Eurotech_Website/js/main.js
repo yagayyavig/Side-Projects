@@ -56,3 +56,13 @@ document.addEventListener('DOMContentLoaded', () => {
   sliderContainer.addEventListener('mouseenter', stopSlider);
   sliderContainer.addEventListener('mouseleave', startSlider);
 });
+
+document.addEventListener('DOMContentLoaded', () => {
+  const navToggle = document.querySelector('.nav-toggle');
+  const navLinks = document.querySelector('.nav-links');
+  
+  navToggle.addEventListener('click', () => {
+    navLinks.classList.toggle('active');
+    navToggle.classList.toggle('active');
+  });
+});
