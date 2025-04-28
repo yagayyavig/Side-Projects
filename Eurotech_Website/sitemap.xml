@@ -1,87 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://eurotech-canada.com/</loc>
     <priority>1.00</priority>
   </url>
-  <url>
-    <loc>https://eurotech-canada.com/services.html</loc>
-    <priority>0.80</priority>
-  </url>
+
   <url>
     <loc>https://eurotech-canada.com/about.html</loc>
-    <priority>0.80</priority>
+    <priority>0.90</priority>
   </url>
-  <url>
-    <loc>https://eurotech-canada.com/contact.html</loc>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://eurotech-canada.com/process.html</loc>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://eurotech-canada.com/iso9001.html</loc>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://eurotech-canada.com/iso14001.html</loc>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://eurotech-canada.com/iso27001.html</loc>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://eurotech-canada.com/as9100.html</loc>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://eurotech-canada.com/as9110.html</loc>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://eurotech-canada.com/as9120.html</loc>
-    <priority>0.70</priority>
-  </url>
+
   <url>
     <loc>https://eurotech-canada.com/aqap.html</loc>
-    <priority>0.70</priority>
+    <priority>0.80</priority>
   </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/as9100.html</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/as9110.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/as9120.html</loc>
+    <priority>0.80</priority>
+  </url>
+
   <url>
     <loc>https://eurotech-canada.com/atex.html</loc>
-    <priority>0.70</priority>
+    <priority>0.80</priority>
   </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/ce.html</loc>
+    <priority>0.85</priority>
+  </url>
+
   <url>
     <loc>https://eurotech-canada.com/cement.html</loc>
-    <priority>0.70</priority>
+    <priority>0.80</priority>
   </url>
-  <url>
-    <loc>https://eurotech-canada.com/machinery.html</loc>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://eurotech-canada.com/lifts.html</loc>
-    <priority>0.70</priority>
-  </url>
+
   <url>
     <loc>https://eurotech-canada.com/construction.html</loc>
-    <priority>0.70</priority>
+    <priority>0.80</priority>
   </url>
+
   <url>
-    <loc>https://eurotech-canada.com/welder.html</loc>
-    <priority>0.70</priority>
+    <loc>https://eurotech-canada.com/cpchat.html</loc>
+    <priority>0.80</priority>
   </url>
+
   <url>
-    <loc>https://eurotech-canada.com/en15085.html</loc>
-    <priority>0.70</priority>
+    <loc>https://eurotech-canada.com/contact.html</loc>
+    <priority>0.90</priority>
   </url>
+
   <url>
     <loc>https://eurotech-canada.com/en1090.html</loc>
-    <priority>0.70</priority>
+    <priority>0.80</priority>
   </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/en15085.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/iso9001.html</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/iso14001.html</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/iso27001.html</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/lifts.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/machinery.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/management.html</loc>
+    <priority>0.85</priority>
+  </url>
+
   <url>
     <loc>https://eurotech-canada.com/ped.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/process.html</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/rmi.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/sa8000.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/sedex.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/services.html</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/social.html</loc>
     <priority>0.70</priority>
   </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/thank-you.html</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://eurotech-canada.com/welder.html</loc>
+    <priority>0.80</priority>
+  </url>
+
 </urlset>
